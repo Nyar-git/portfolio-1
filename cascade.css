@@ -1,0 +1,70 @@
+header{
+	min-width:100vw:
+	max-height:40vh;
+	width:80vw;
+	height:30vh;	
+	background:green;
+	border-width:10px;
+	border-color:#669899;
+	border-bottom-style:solid;
+	position:relative;
+	}
+	@media only screen and(min-width:700px){
+	body{
+		background color:yellow;	
+	}
+	header{
+		color:maroon;
+	}
+	h1{
+		color:pink;
+	}
+}
+<sectio> </section>
+ul{
+	margin-right:40px;
+	float:right;
+	background:red;
+	position:absolute;
+	right:30px
+	top:20px;
+	height:30px;
+	
+}
+li{
+	text-decoration:none;
+display:inline;
+padding:10px;
+color:#959669;
+}
+a{
+	text-decoration:none;
+	font-size:30px;
+	color:#010001;
+	background:#B6BE41;
+	border-radius:20px;
+}
+a:hover{
+	background:#D32CC5;
+
+}
+#sec-1{
+ 	width:99vw;
+	height:9ovh;
+	color:url("nervous.jpg");
+	}
+	#div-1{
+		background-image:url("chess img.jpg");
+		 height:500px;
+		 width:500px;
+		
+	}
+body{
+	background:purple;
+}
+h1{
+	color:white;
+}
+title{
+	color:pink;
+}
